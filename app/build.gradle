@@ -1,11 +1,11 @@
 apply plugin: 'android'
 
 android {
-    compileSdkVersion 'L'
+    compileSdkVersion 'android-L'
     buildToolsVersion '20.0.0'
     defaultConfig {
         applicationId 'com.ambergleam.rps'
-        minSdkVersion '15'
+        minSdkVersion 'L'
         targetSdkVersion 'L'
         versionCode 1
         versionName '1.0'

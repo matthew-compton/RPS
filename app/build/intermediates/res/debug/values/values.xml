@@ -26,7 +26,7 @@
     <!-- From: file:/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
-    <style name="AppTheme" parent="android:Theme.Holo.Light">
+    <style name="AppTheme" parent="android:Theme.Material">
         <!-- Customize your theme here. -->
     </style>
 
