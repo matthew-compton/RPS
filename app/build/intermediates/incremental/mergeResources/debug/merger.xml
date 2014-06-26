@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_rps"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/activity_rps.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_intro"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/fragment_intro.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_player_one"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/fragment_player_one.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_player_two"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/fragment_player_two.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_result"
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/fragment_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="padding_bottom" >10dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="fragment_result_player_one_wins" >Player One Wins!
+                </string>
+                <string name="fragment_intro_play" >Play
+                </string>
+                <string name="scissors" >Scissors
+                </string>
+                <string name="fragment_result_play_again" >Play Again
+                </string>
+                <string name="fragment_player_two_title" >Player Two\'s Turn:
+                </string>
+                <string name="app_name" >Rock, Paper, Scissors
+                </string>
+                <string name="fragment_intro_title" >Time to play Rock, Paper, Scissors!
+                </string>
+                <string name="paper" >Paper
+                </string>
+                <string name="fragment_result_title" >The result is:
+                </string>
+                <string name="rock" >Rock
+                </string>
+                <string name="fragment_player_one_title" >Player One\'s Turn:
+                </string>
+                <string name="fragment_result_draw" >Draw!
+                </string>
+                <string name="fragment_result_player_two_wins" >Player Two Wins!
+                </string>
+            </file>
+            <file
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/ambergleam/Code/workspace-studio/RPS/app/build/generated/res/rs/debug" />
+        <source path="/Users/ambergleam/Code/workspace-studio/RPS/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/ambergleam/Code/workspace-studio/RPS/app/src/debug/res" />
+    </dataSet>
+
+</merger>

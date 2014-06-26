@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/fragment_result_title"
+        android:text="@string/fragment_intro_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="@dimen/padding_bottom" />
+
+    <Button
+        android:id="@+id/fragment_intro_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_intro_play"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="@dimen/padding_bottom" />
+
+</RelativeLayout>
+<!-- From: file:/Users/ambergleam/Code/workspace-studio/RPS/app/src/main/res/layout/fragment_intro.xml -->

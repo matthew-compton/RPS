@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rock, Paper, Scissors</string>
+
+    <string name="fragment_intro_title">Time to play Rock, Paper, Scissors!</string>
+    <string name="fragment_intro_play">Play</string>
+
+    <string name="fragment_player_one_title">Player One\'s Turn:</string>
+    <string name="fragment_player_two_title">Player Two\'s Turn:</string>
+
+    <string name="fragment_result_title">The result is:</string>
+    <string name="fragment_result_player_one_wins">Player One Wins!</string>
+    <string name="fragment_result_player_two_wins">Player Two Wins!</string>
+    <string name="fragment_result_draw">Draw!</string>
+    <string name="fragment_result_play_again">Play Again</string>
+
+    <!-- States -->
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+
+</resources>
